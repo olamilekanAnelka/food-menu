@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    margin: o;
+}
+
+.main{
+    background-color: #FD4351;
+    width: 68vw;
+    height: 72vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 5rem;
+    padding: 1rem 5rem;
+}
+
+.image-bg{
+    background-image: url(./imags/veg3.jpeg);
+    height: 600px;
+    width: 300px;
+    float:left;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.reg{
+    background-color: white;
+    height: 600px;
+    width: 500px;
+    float: right;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.form{
+    width: 70%;
+
+    
+
+}
+
+
